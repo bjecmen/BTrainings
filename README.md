@@ -1,0 +1,4 @@
+BTrainings
+==========
+
+Examples for colleagues

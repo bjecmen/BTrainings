@@ -1,4 +1,4 @@
-Lada jezdi na zelenou
-Bobo jezdi na cervenou
+Lada jezdi na 00FF00
+Bobo jezdi na FF0000
 vsichni ostatni pak
 jezdi na oranzovou
